@@ -1,0 +1,13 @@
+C:\Users\space\source\repos\VowelsReplace\VowelsReplace\bin\Debug\netcoreapp3.1\VowelsReplace.exe
+C:\Users\space\source\repos\VowelsReplace\VowelsReplace\bin\Debug\netcoreapp3.1\VowelsReplace.deps.json
+C:\Users\space\source\repos\VowelsReplace\VowelsReplace\bin\Debug\netcoreapp3.1\VowelsReplace.runtimeconfig.json
+C:\Users\space\source\repos\VowelsReplace\VowelsReplace\bin\Debug\netcoreapp3.1\VowelsReplace.runtimeconfig.dev.json
+C:\Users\space\source\repos\VowelsReplace\VowelsReplace\bin\Debug\netcoreapp3.1\VowelsReplace.dll
+C:\Users\space\source\repos\VowelsReplace\VowelsReplace\bin\Debug\netcoreapp3.1\VowelsReplace.pdb
+C:\Users\space\source\repos\VowelsReplace\VowelsReplace\obj\Debug\netcoreapp3.1\VowelsReplace.csprojAssemblyReference.cache
+C:\Users\space\source\repos\VowelsReplace\VowelsReplace\obj\Debug\netcoreapp3.1\VowelsReplace.AssemblyInfoInputs.cache
+C:\Users\space\source\repos\VowelsReplace\VowelsReplace\obj\Debug\netcoreapp3.1\VowelsReplace.AssemblyInfo.cs
+C:\Users\space\source\repos\VowelsReplace\VowelsReplace\obj\Debug\netcoreapp3.1\VowelsReplace.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\VowelsReplace\VowelsReplace\obj\Debug\netcoreapp3.1\VowelsReplace.dll
+C:\Users\space\source\repos\VowelsReplace\VowelsReplace\obj\Debug\netcoreapp3.1\VowelsReplace.pdb
+C:\Users\space\source\repos\VowelsReplace\VowelsReplace\obj\Debug\netcoreapp3.1\VowelsReplace.genruntimeconfig.cache
